@@ -13,5 +13,5 @@ Per_Images对每张图像中某类数据的个数进行计数
 ![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/motor.png)
 ![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/car.png)
 ![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/bus.png)
-![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/bike.png)
+![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/bike.png)  
 Data_Repeat对缺少数据进行repeat处理  
