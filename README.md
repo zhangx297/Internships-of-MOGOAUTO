@@ -7,4 +7,11 @@ Histogram_Analysis对data种类分布进行可视化
 ![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/%E7%9B%B4%E6%96%B9%E5%9B%BE.png) 
 ![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/%E6%96%B0%E7%9B%B4%E6%96%B9%E5%9B%BE.png)  
 Per_Images对每张图像中某类数据的个数进行计数  
+![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/truck.png)  
+![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/rider.png)  
+![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/person.png)
+![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/motor.png)
+![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/car.png)
+![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/bus.png)
+![Image text](https://github.com/zhangx297/Dataset_processing/blob/main/bike.png)
 Data_Repeat对缺少数据进行repeat处理  
