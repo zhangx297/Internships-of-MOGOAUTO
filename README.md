@@ -1,6 +1,6 @@
 # Dataset_processing
 ### Deep learning dataset processing
-## 用于深度学习起初数据预处理
+## 用于深度学习数据预处理
 
 Dataset_Partitioning用于对训练集和预测集进行划分  
 Histogram_Analysis对data种类分布进行可视化  
