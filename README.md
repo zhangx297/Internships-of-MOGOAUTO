@@ -63,6 +63,7 @@ Model Address: /rss/zhangxutong/chinese_plate_tensorrt-master
 Logs of Model Address: /rss/zhangxutong/chinese_plate_tensorrt-master/onnx_model
 ```
 ## 5. Body Color Detection
+```
 Model Address: /rss/zhangxutong/classification-pytorch-main
 ```
 ```
